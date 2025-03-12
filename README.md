@@ -1,7 +1,7 @@
-##100 Days of Learning - React Do It your Own
+## 100 Days of Learning - React Do It your Own
 
 ### What I Learned?
-###Day 01- 10
+### Day 01- 10
 - [Pizza Menu](https://fast-react-pizza-menu.netlify.app/) (Components, props, JSX)
 ###Day 11 - 20
 - [Travel List](https://travel-list-jonas.netlify.app/) (useState and state management)
